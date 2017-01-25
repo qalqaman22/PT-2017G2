@@ -1,0 +1,6 @@
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab1FindPrime\Lab1FindPrime\bin\Debug\Lab1FindPrime.exe.config
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab1FindPrime\Lab1FindPrime\bin\Debug\Lab1FindPrime.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab1FindPrime\Lab1FindPrime\bin\Debug\Lab1FindPrime.pdb
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab1FindPrime\Lab1FindPrime\obj\Debug\Lab1FindPrime.csprojResolveAssemblyReference.cache
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab1FindPrime\Lab1FindPrime\obj\Debug\Lab1FindPrime.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab1FindPrime\Lab1FindPrime\obj\Debug\Lab1FindPrime.pdb

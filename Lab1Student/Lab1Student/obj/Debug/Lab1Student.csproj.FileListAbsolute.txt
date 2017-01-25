@@ -1,0 +1,6 @@
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab1Student\Lab1Student\bin\Debug\Lab1Student.exe.config
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\WorkHard\Lab1Student\Lab1Student\bin\Debug\Lab1Student.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\WorkHard\Lab1Student\Lab1Student\bin\Debug\Lab1Student.pdb
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\WorkHard\Lab1Student\Lab1Student\obj\Debug\Lab1Student.csprojResolveAssemblyReference.cache
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\WorkHard\Lab1Student\Lab1Student\obj\Debug\Lab1Student.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\WorkHard\Lab1Student\Lab1Student\obj\Debug\Lab1Student.pdb
