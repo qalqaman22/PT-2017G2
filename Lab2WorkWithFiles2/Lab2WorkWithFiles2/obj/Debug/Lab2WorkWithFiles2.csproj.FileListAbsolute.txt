@@ -1,0 +1,6 @@
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab2WorkWithFiles2\Lab2WorkWithFiles2\bin\Debug\Lab2WorkWithFiles2.exe.config
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab2WorkWithFiles2\Lab2WorkWithFiles2\bin\Debug\Lab2WorkWithFiles2.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab2WorkWithFiles2\Lab2WorkWithFiles2\bin\Debug\Lab2WorkWithFiles2.pdb
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab2WorkWithFiles2\Lab2WorkWithFiles2\obj\Debug\Lab2WorkWithFiles2.csprojResolveAssemblyReference.cache
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab2WorkWithFiles2\Lab2WorkWithFiles2\obj\Debug\Lab2WorkWithFiles2.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab2WorkWithFiles2\Lab2WorkWithFiles2\obj\Debug\Lab2WorkWithFiles2.pdb
