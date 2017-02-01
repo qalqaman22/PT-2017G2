@@ -1,0 +1,6 @@
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab2SumOfComplex\Lab2SumOfComplex\bin\Debug\Lab2SumOfComplex.exe.config
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab2SumOfComplex\Lab2SumOfComplex\bin\Debug\Lab2SumOfComplex.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab2SumOfComplex\Lab2SumOfComplex\bin\Debug\Lab2SumOfComplex.pdb
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab2SumOfComplex\Lab2SumOfComplex\obj\Debug\Lab2SumOfComplex.csprojResolveAssemblyReference.cache
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab2SumOfComplex\Lab2SumOfComplex\obj\Debug\Lab2SumOfComplex.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\WorkHard\Lab2SumOfComplex\Lab2SumOfComplex\obj\Debug\Lab2SumOfComplex.pdb
