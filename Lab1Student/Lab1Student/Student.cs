@@ -14,7 +14,7 @@ namespace Lab1Student
         private int age;
         private float gpa;
 
-        public Student() { }
+        
 
 
         //To save elements
