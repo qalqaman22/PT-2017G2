@@ -8,14 +8,7 @@ namespace Lab2SumOfComplex
 {
     class Program
     {
-        //To find maximum division
-        public static int maxdiv(int a, int b)
-        {
-            if (a == 0)
-                return b;
-            return maxdiv (b % a, a);
-        }
-
+        
         
         static void Main(string[] args)
         {
@@ -30,12 +23,59 @@ namespace Lab2SumOfComplex
             foreach (string s in arr)
             {
                 // s = "11/22"
-                string[] t = s.Split('/'); // t[0] = 11 t[1] = 22 
+                string[] t = s.Split('/'); // t[0] = 11 t[1] = 22
                 Complex p = new Complex(int.Parse(t[0]), int.Parse(t[1]));
+
+                if (sum.x == 0 && sum.y == 0)
+                    sum = p;
+                else
                 sum = sum + p;
             }
+
+            Complex sub = new Complex(0, 0);
+            foreach (string s in arr)
+            {
+                // s = "11/22"
+                string[] t = s.Split('/'); // t[0] = 11 t[1] = 22 
+                Complex p = new Complex(int.Parse(t[0]), int.Parse(t[1]));
+                if (sub.x == 0 && sub.y == 0)
+                    sub = p;
+                else
+                    sub = sub - p;
+            }
+
+            Complex div = new Complex(0, 0);
+            
+            foreach (string s in arr)
+            {
+                // s = "11/22"
+                string[] t = s.Split('/'); // t[0] = 11 t[1] = 22 
+                Complex p = new Complex(int.Parse(t[0]), int.Parse(t[1]));
+                if (div.x == 0 && div.y == 0)
+                    div = p;
+                else
+                    div = div / p;
+            }
+
+            Complex mul = new Complex(0, 0);
+            foreach (string s in arr)
+            {
+                // s = "11/22"
+                string[] t = s.Split('/'); // t[0] = 11 t[1] = 22 
+                Complex p = new Complex(int.Parse(t[0]), int.Parse(t[1]));
+                if (mul.x == 0 && mul.y == 0)
+                    mul = p;
+                else
+                    mul = mul * p;
+            }
+
+
+
             //Answer is x and y component of sum divided by greates common factor REDUCTION
-            Console.WriteLine(sum.x/(maxdiv(sum.x,sum.y)) + "/" + sum.y / (maxdiv(sum.x, sum.y)) );
+            Console.WriteLine(sum);
+            Console.WriteLine(sub);
+            Console.WriteLine(div);
+            Console.WriteLine(mul);
             Console.ReadKey();
         }
     }
