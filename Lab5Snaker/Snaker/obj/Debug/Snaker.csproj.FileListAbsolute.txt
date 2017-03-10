@@ -1,0 +1,12 @@
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Snaker\Snaker\bin\Debug\Snaker.exe.config
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Snaker\Snaker\bin\Debug\Snaker.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Snaker\Snaker\bin\Debug\Snaker.pdb
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Snaker\Snaker\obj\Debug\Snaker.csprojResolveAssemblyReference.cache
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Snaker\Snaker\obj\Debug\Snaker.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Snaker\Snaker\obj\Debug\Snaker.pdb
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\WorkHard\Lab5Snaker\Snaker\bin\Debug\Snaker.exe.config
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\WorkHard\Lab5Snaker\Snaker\obj\Debug\Snaker.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\WorkHard\Lab5Snaker\Snaker\obj\Debug\Snaker.pdb
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\WorkHard\Lab5Snaker\Snaker\bin\Debug\Snaker.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\WorkHard\Lab5Snaker\Snaker\bin\Debug\Snaker.pdb
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\WorkHard\Lab5Snaker\Snaker\obj\Debug\Snaker.csprojResolveAssemblyReference.cache
