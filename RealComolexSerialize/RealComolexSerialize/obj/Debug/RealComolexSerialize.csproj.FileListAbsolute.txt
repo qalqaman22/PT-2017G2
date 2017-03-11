@@ -1,0 +1,6 @@
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\RealComolexSerialize\RealComolexSerialize\bin\Debug\RealComolexSerialize.exe.config
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\PlayHard\RealComolexSerialize\RealComolexSerialize\bin\Debug\RealComolexSerialize.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\PlayHard\RealComolexSerialize\RealComolexSerialize\bin\Debug\RealComolexSerialize.pdb
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\PlayHard\RealComolexSerialize\RealComolexSerialize\obj\Debug\RealComolexSerialize.csprojResolveAssemblyReference.cache
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\PlayHard\RealComolexSerialize\RealComolexSerialize\obj\Debug\RealComolexSerialize.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\PlayHard\RealComolexSerialize\RealComolexSerialize\obj\Debug\RealComolexSerialize.pdb
