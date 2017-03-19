@@ -1,0 +1,9 @@
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\FirstExamole\FirstExamole\bin\Debug\FirstExamole.exe.config
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\FirstExamole\FirstExamole\bin\Debug\FirstExamole.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\FirstExamole\FirstExamole\bin\Debug\FirstExamole.pdb
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\FirstExamole\FirstExamole\obj\Debug\FirstExamole.csprojResolveAssemblyReference.cache
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\FirstExamole\FirstExamole\obj\Debug\FirstExamole.Form1.resources
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\FirstExamole\FirstExamole\obj\Debug\FirstExamole.Properties.Resources.resources
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\FirstExamole\FirstExamole\obj\Debug\FirstExamole.csproj.GenerateResource.Cache
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\FirstExamole\FirstExamole\obj\Debug\FirstExamole.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\FirstExamole\FirstExamole\obj\Debug\FirstExamole.pdb
