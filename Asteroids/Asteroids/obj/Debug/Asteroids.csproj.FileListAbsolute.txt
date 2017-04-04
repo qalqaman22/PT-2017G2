@@ -1,0 +1,9 @@
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Asteroids\Asteroids\obj\Debug\Asteroids.Form1.resources
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.Cache
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\PlayHard\Asteroids\Asteroids\obj\Debug\Asteroids.csprojResolveAssemblyReference.cache
