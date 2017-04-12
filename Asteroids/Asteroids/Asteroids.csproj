@@ -54,7 +54,6 @@
     </Compile>
     <Compile Include="MyAsters.cs" />
     <Compile Include="MyBullet.cs" />
-    <Compile Include="MyGun.cs" />
     <Compile Include="MyStars.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
