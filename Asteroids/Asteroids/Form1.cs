@@ -23,6 +23,13 @@ namespace Asteroids
 
         private void timer1_Tick(object sender, EventArgs e)
         {
+            bmp = new Bitmap(pictureBox1.Width, pictureBox1.Height);
+            //bmp = new Bitmap(@"C:\Users\qalqa\Desktop\Proga\wallblue.jpg");
+            
+            gSic = Graphics.FromImage(bmp);
+            gSic.FillRectangle(brushblue, 0, 0, pictureBox1.Width, pictureBox1.Height);
+           
+            pictureBox1.Image = bmp;
             x1++;
             y1++;
             if (x1 == 984)
@@ -47,12 +54,12 @@ namespace Asteroids
                 x4 = 984;
             if (y4 == 0)
                 y4 = 650;
-
+            
             myaster1 = new MyAsters(x1, y1);
             myaster2 = new MyAsters(x2, y2);
             myaster3 = new MyAsters(x3, y3);
             myaster4 = new MyAsters(x4, y4);
-
+            
             a1++;
             b1++;
             if (a1 == 984)
@@ -111,8 +118,13 @@ namespace Asteroids
             star7 = new MyStars(a7, b7);
             star8 = new MyStars(a8, b8);
             //ship = new SpaceShip(s1, s2);
-            Refresh();
-            
+          
+            //pictureBox1.Refresh();
+           
+            Paint1();
+         
+            pictureBox1.Image = bmp;
+            //Refresh();
         }
 
         MyStars star1, star2, star3, star4, star5, star6, star7, star8;
@@ -212,25 +224,28 @@ namespace Asteroids
         public Form1()
         {
             InitializeComponent();
-            
+
             
             bmp = new Bitmap(pictureBox1.Width, pictureBox1.Height);
             bmp = new Bitmap(@"C:\Users\qalqa\Desktop\Proga\wallblue.jpg");
-            g = Graphics.FromImage(bmp);
-            gPic = pictureBox1.CreateGraphics();
-            gSic = pictureBox1.CreateGraphics();
-            gMic = pictureBox1.CreateGraphics();
+            gSic = Graphics.FromImage(bmp);
+            //gPic = pictureBox1.CreateGraphics();
+            //gSic = pictureBox1.CreateGraphics();
+            //gMic = pictureBox1.CreateGraphics();
             pictureBox1.Image = bmp;
             
+
             brushwhite = new SolidBrush(Color.White);
             brushred = new SolidBrush(Color.Red);
             brushgreen = new SolidBrush(Color.Green);
             brushyellow = new SolidBrush(Color.Yellow);
             brushblue = new SolidBrush(Color.Blue);
+            
             myaster1 = new MyAsters(180,200);
             myaster2 = new MyAsters(220, 450);
             myaster3 = new MyAsters(800, 170);
             myaster4 = new MyAsters(610, 510);
+            
             
             ship = new SpaceShip(492, 325);
             bullet = new MyBullet(492, 240);
@@ -256,6 +271,13 @@ namespace Asteroids
         
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
+            
+            //g.FillPath(brushgreen, bullet.path5);
+            //g.FillPath(brushgreen, bullet.path6);
+            
+        }
+
+        public void Paint1() {
             ship = new SpaceShip(s1, s2);
             //g.FillRectangle(brushblue, 0, 0, 984, 650);
             gSic.FillPath(brushwhite, star1.path7);
@@ -267,36 +289,35 @@ namespace Asteroids
             gSic.FillPath(brushwhite, star7.path7);
             gSic.FillPath(brushwhite, star8.path7);
 
-            gPic.FillPath(brushred, myaster1.path1);
-            gPic.FillPath(brushred, myaster1.path2);
-            gPic.FillPath(brushred, myaster2.path1);
-            gPic.FillPath(brushred, myaster2.path2);
-            gPic.FillPath(brushred, myaster3.path1);
-            gPic.FillPath(brushred, myaster3.path2);
-            gPic.FillPath(brushred, myaster4.path1);
-            gPic.FillPath(brushred, myaster4.path2);
+            gSic.FillPath(brushred, myaster1.path1);
+            gSic.FillPath(brushred, myaster1.path2);
+            gSic.FillPath(brushred, myaster2.path1);
+            gSic.FillPath(brushred, myaster2.path2);
+            gSic.FillPath(brushred, myaster3.path1);
+            gSic.FillPath(brushred, myaster3.path2);
+            gSic.FillPath(brushred, myaster4.path1);
+            gSic.FillPath(brushred, myaster4.path2);
 
-            gMic.FillPath(brushyellow, ship.path3);
-            if(op==1)
-            gMic.FillPath(brushgreen, ship.path11);
+            gSic.FillPath(brushyellow, ship.path3);
+            if (op == 1)
+                gSic.FillPath(brushgreen, ship.path11);
             else if (op == 2)
-                gMic.FillPath(brushgreen, ship.path12);
+                gSic.FillPath(brushgreen, ship.path12);
             else if (op == 3)
-                gMic.FillPath(brushgreen, ship.path13);
+                gSic.FillPath(brushgreen, ship.path13);
             else if (op == 4)
-                gMic.FillPath(brushgreen, ship.path14);
-            else if(op==5)
-                gMic.FillPath(brushgreen, ship.path15);
+                gSic.FillPath(brushgreen, ship.path14);
+            else if (op == 5)
+                gSic.FillPath(brushgreen, ship.path15);
             else if (op == 6)
-                gMic.FillPath(brushgreen, ship.path16);
+                gSic.FillPath(brushgreen, ship.path16);
             else if (op == 7)
-                gMic.FillPath(brushgreen, ship.path17);
+                gSic.FillPath(brushgreen, ship.path17);
             else if (op == 8)
-                gMic.FillPath(brushgreen, ship.path18);
-            //g.FillPath(brushgreen, bullet.path5);
-            //g.FillPath(brushgreen, bullet.path6);
-        }
+                gSic.FillPath(brushgreen, ship.path18);
 
+
+        }
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 

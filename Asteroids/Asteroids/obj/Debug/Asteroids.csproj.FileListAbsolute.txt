@@ -7,3 +7,12 @@ c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Asteroids\Asteroid
 c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Asteroids\Asteroids\obj\Debug\Asteroids.exe
 c:\users\qalqa\documents\visual studio 2015\Projects\PlayHard\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
 C:\Users\qalqa\Documents\Visual Studio 2015\Projects\PlayHard\Asteroids\Asteroids\obj\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids\obj\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids\obj\Debug\Asteroids.Form1.resources
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.Cache
