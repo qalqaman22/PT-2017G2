@@ -1,0 +1,8 @@
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task3\Task3\obj\Debug\Task3.Form1.resources
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task3\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task3\Task3\obj\Debug\Task3.csproj.GenerateResource.Cache
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task3\Task3\obj\Debug\Task3.pdb

@@ -1,0 +1,6 @@
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task 1\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task 1\Task 1\bin\Debug\Task 1.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task 1\Task 1\bin\Debug\Task 1.pdb
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task 1\Task 1\obj\Debug\Task 1.csprojResolveAssemblyReference.cache
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task 1\Task 1\obj\Debug\Task 1.exe
+C:\Users\qalqa\Documents\Visual Studio 2015\Projects\Final_KalkamanAlisher\Task 1\Task 1\obj\Debug\Task 1.pdb
